@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Smart Expense & Budget Tracker",
+    "slug": "smart-expense-budget-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#090D16"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#090D16"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
